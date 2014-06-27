@@ -1,0 +1,16 @@
+{
+  "name": "thing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Smith",
+  "license": "MIT",
+  "dependencies": {
+    "css": "~2.0.0",
+    "underscore": "~1.6.0",
+    "cheerio": "~0.17.0"
+  }
+}

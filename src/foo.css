@@ -1,0 +1,25 @@
+#example1 {
+  background: gray;
+  padding: 1em;
+}
+
+.foo {
+  background: blue;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+#example2 {
+  clear: both;
+  margin: 1em 0 0;
+  background: gray;
+  padding: 1em;
+}
+
+.bar {
+  background: blue;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
